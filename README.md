@@ -1,1 +1,1 @@
-https://katamovdn.vercel.app/ - с впном
+https://katamovdn.vercel.app/ - работает с впном, тк апи залочен
